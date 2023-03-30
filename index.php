@@ -29,15 +29,15 @@ $mpdf->AddPage('', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '
 $mpdf->WriteHTML('
 <div style="width:100%;height:100%;color:#424242;">
   
-  <div style="padding:365px 75px 0 75px;">
+  <div style="padding:330px 75px 0 75px;">
     <div style="width:100%;text-align:center;font-size:20px;color:#542872;line-height: 1.4;font-weight:bold;">Concluiu com aproveitamento a Capacitação sobre Assédio Moral, Assédio Sexual e Demais Violências no Ambiente de Trabalho, com carga horária de 2 (duas) horas, em atendimento à Lei n. 14.457/2022, NR 01 e Anexos.</div>
   </div>
   
-  <div style="padding:45px 75px 0 75px;">
+  <div style="padding:40px 75px 0 75px;">
     <div style="width:100%;text-align:center;font-size:18px;color:#542872;line-height: 1.4;font-weight:normal;">Cuiabá, 30 de março de 2023.</div>
   </div>
 
-  <div style="padding:10px 115px 0 115px;">
+  <div style="padding:40px 115px 0 115px;">
     <table style="width:100%;text-align:center;">
       <tr>
         <td width="205px">Rodrigo Golfeto de Queiroz</td>
